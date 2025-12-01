@@ -21,13 +21,13 @@ The project is mainly to demonstrate software engineering practices: documentati
 
 ## 3. Functional Requirements
 
-### FR1 – Home Page
+### a. Home Page
 - The system shall display a home page with:
   - Company name and logo (text logo).
   - Short introduction of the company.
   - Navigation links to Services, About, and Contact pages.
 
-### FR2 – Services Page
+### b. Services Page
 - The system shall display a list of construction services, including at least:
   - Residential construction
   - Renovations
@@ -36,13 +36,13 @@ The project is mainly to demonstrate software engineering practices: documentati
   - Painting
 - Each service shall include a short description.
 
-### FR3 – About Page
+### c. About Page
 - The system shall display:
   - A short company history.
   - A paragraph about the team and values.
   - Basic “Why choose us?” bullet points.
 
-### FR4 – Contact Page / Quote Form
+### d. Contact Page / Quote Form
 - The system shall provide a contact form with fields:
   - Name
   - Email
@@ -50,7 +50,7 @@ The project is mainly to demonstrate software engineering practices: documentati
   - Free-text message
 - On submit, the form shall show a confirmation message in the browser (no real email required).
 
-### FR5 – Navigation
+### e. Navigation
 - The system shall provide a navigation bar on every page with links to:
   - Home
   - Services
@@ -61,25 +61,25 @@ The project is mainly to demonstrate software engineering practices: documentati
 
 ## 4. Non-Functional Requirements
 
-### NFR1 – Usability
+### a. Usability
 - Pages should be easy to read using simple visual hierarchy (titles, subtitles, lists).
 - Navigation menu appears consistently on all pages.
 
-### NFR2 – Performance
+### b. Performance
 - All pages should load quickly when opened locally (no large media files).
 
-### NFR3 – Compatibility
+### c. Compatibility
 - Site must run in modern browsers (Chrome, Edge, Firefox) without extra plugins.
 - The project must open as static HTML files (no server required).
 
-### NFR4 – Maintainability
+### d. Maintainability
 - HTML, CSS, and JS should be separated:
   - Structure in `.html`
   - Styles in `styles.css`
   - Behaviour in `script.js`
 - Code should be commented where appropriate.
 
-### NFR5 – Version Control
+### e. Version Control
 - All work must be tracked in Git.
 - Separate branches for each developer (`castro-dev`, `rupesh-dev`).
 - Merge into `main` for final version.
