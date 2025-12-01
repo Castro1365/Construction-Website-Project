@@ -54,7 +54,7 @@ main {
     border: 1px solid #ddd;
     padding: 1rem;
     border-radius: 6px;
-    margin-bottom: 1rem;
+    margin-top: 0.5rem;
     background: #fafafa;
 }
 
@@ -72,6 +72,7 @@ button {
     padding: 0.6rem 1.2rem;
     border-radius: 4px;
     cursor: pointer;
+    margin-top: 1rem;
 }
 
 button:hover {
@@ -104,5 +105,5 @@ form textarea {
 }
 
 .hero p {
-    margin-bottom: 1rem;
+    margin-top: 0.5rem;
 }
