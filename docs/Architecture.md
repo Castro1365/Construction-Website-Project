@@ -76,3 +76,5 @@ The Construction Website project uses a **simple static web architecture**:
 - Static architecture is enough for the course requirements.
 - Easy to host locally or later on **GitHub Pages**.
 - Simple structure makes it easy for another developer or the professor to understand the project quickly.
+
+---
