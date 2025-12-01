@@ -41,36 +41,25 @@ Includes all project documentation:
 
 ## 3. Simple Diagram
 
-Browser (User Interface)
-|
-v
-src/ (Website Pages)
-index.html
-services.html
-about.html
-contact.html
-styles.css
-script.js
+- **Browser (User Interface)**
+- **src/** – Website Pages  
+  - index.html  
+  - services.html  
+  - about.html  
+  - contact.html  
+  - styles.css  
+  - script.js  
 
-    |
-    v
+- **docs/** – Project Documentation  
+  - Requirements  
+  - Personas  
+  - User Stories  
+  - Architecture  
+  - Wireframes  
+  - Group Assignment  
 
-
-docs/ (Project Documentation)
-Requirements
-Personas
-User Stories
-Architecture
-Wireframes
-Group Assignment
-
-    |
-    v
-
-
-tests/ (Testing)
-test_getmax.py
-
+- **tests/** – Testing  
+  - test_getmax.py
 
 ---
 
