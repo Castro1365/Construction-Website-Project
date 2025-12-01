@@ -60,7 +60,7 @@ The Construction Website project uses a **simple static web architecture**:
 
 ---
 
-## 4. Navigation Flow
+## **4. Navigation Flow**
 
 - User lands on `index.html`.
 - From the navigation bar the user can:
@@ -71,7 +71,7 @@ The Construction Website project uses a **simple static web architecture**:
 
 ---
 
-## 5. Rationale
+## **5. Rationale**
 
 - Static architecture is enough for the course requirements.
 - Easy to host locally or later on **GitHub Pages**.
