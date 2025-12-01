@@ -1,13 +1,13 @@
-# 🏗️ Construction Website Project  
+#  Construction Website Project  
 **Software Engineering Final Project — STY1003**
 
-### 👥 Team Members
+###  Team Members
 - **Castro Fokou**
 - **Rupesh R.** (pending GitHub acceptance)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project is a simple **Construction Company Website** built as part of the Software Engineering final group assignment.  
 It demonstrates professional **software engineering processes**, including:
 
@@ -23,7 +23,7 @@ It demonstrates professional **software engineering processes**, including:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Construction-Website-Project/
@@ -52,7 +52,7 @@ Construction-Website-Project/
 
 ---
 
-## 🧩 Main Features
+##  Main Features
 
 ### ✔ **Home Page**
 Company introduction, mission, and hero section.
@@ -73,7 +73,7 @@ Contact form UI (non-functional demo).
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Technology | Use |
 |-----------|-----|
@@ -87,7 +87,7 @@ Contact form UI (non-functional demo).
 
 ---
 
-## 🌿 Branching Strategy
+##  Branching Strategy
 
 We follow a **feature-branch workflow**:
 
@@ -99,7 +99,7 @@ All development happens on your own branch → then merged into **main**.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The project includes a simple Python test:  
 ```
@@ -113,7 +113,7 @@ It demonstrates:
 
 ---
 
-## 🎤 Presentation (Dec 3)
+##  Presentation (Dec 3)
 
 During the presentation, we will show:
 
@@ -126,7 +126,7 @@ During the presentation, we will show:
 
 ---
 
-## ⭐ Final Notes
+##  Final Notes
 This project demonstrates:
 - Proper documentation  
 - Clean project structure  
