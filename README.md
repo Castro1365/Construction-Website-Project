@@ -54,10 +54,10 @@ Construction-Website-Project/
 
 ##  Main Features
 
-### ✔ **Home Page**
+### A. **Home Page**
 Company introduction, mission, and hero section.
 
-### ✔ **Services Page**
+### B. **Services Page**
 List of construction services, such as:
 - Renovation  
 - Roofing  
@@ -65,10 +65,10 @@ List of construction services, such as:
 - Residential construction  
 - Concrete foundation  
 
-### ✔ **About Us Page**
+### C. **About Us Page**
 Team, company background, and values.
 
-### ✔ **Contact Page**
+### D. **Contact Page**
 Contact form UI (non-functional demo).
 
 ---
