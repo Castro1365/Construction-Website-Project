@@ -1,63 +1,53 @@
+Wireframes (Text Description)
 
----
+The wireframes below describe the basic layout of each page in simple text form.
 
-## 5️⃣ `docs/Wireframes.md`
+----------------------------------------------------
 
-```markdown
-# Wireframes (Text Description)
+1. Home Page (index.html)
 
-Because this is a small project, wireframes are described in text form.
+Layout:
+- Header at the top with company name and navigation links.
+- Middle area with a welcome message and a "Request a Quote" button.
+- Bottom section with two or three boxes describing key services.
 
----
+----------------------------------------------------
 
-## 1. Home Page (index.html)
+2. Services Page (services.html)
 
-**Layout**
+Layout:
+- Same header and navigation as the home page.
+- Title at the top: "Our Services".
+- List of services shown in simple blocks:
+  Service name
+  Short description
 
-- Top: Full-width header with company name/logo and navigation bar.
-- Middle: Hero section with short welcome text and "Request a Quote" button.
-- Bottom: 2–3 columns showing key services or selling points.
+----------------------------------------------------
 
----
+3. About Page (about.html)
 
-## 2. Services Page (services.html)
+Layout:
+- Header and navigation at the top.
+- Section: "Who We Are" with a short paragraph.
+- Section: "Our Values" shown as a small bullet list.
+- Optional: Timeline-style items like "Founded in 2015", "100+ completed projects", etc.
 
-**Layout**
+----------------------------------------------------
 
-- Header + navigation (same as Home).
-- Title: "Our Services".
-- Under the title: a vertical list of service cards:
-  - Service name in bold.
-  - Short description underneath.
+4. Contact Page (contact.html)
 
----
-
-## 3. About Page (about.html)
-
-**Layout**
-
-- Header + navigation.
-- Section: "Who We Are" – paragraph about company.
-- Section: "Our Values" – bullet list.
-- Optional: simple “timeline” style list (e.g., Founded 2015, 100+ projects, etc.).
-
----
-
-## 4. Contact Page (contact.html)
-
-**Layout**
-
-- Header + navigation.
+Layout:
+- Header and navigation.
 - Left side: Contact information (address, email, phone).
-- Right side: Contact form with:
-  - Name (text input)
-  - Email (text input)
-  - Service / Project type (select box or text)
-  - Message (textarea)
-  - Submit button
+- Right side: A simple form including:
+  Name input
+  Email input
+  Project/Service type
+  Message box
+  Submit button
 
-On submit, a JavaScript `alert()` shows a thank-you message.
+When the user submits the form, a small JavaScript alert appears saying "Thank you for contacting us".
 
----
+----------------------------------------------------
 
-These textual wireframes guide the design of the actual HTML pages in `/src`.
+These text wireframes guide how the HTML pages in the src folder should be structured.
