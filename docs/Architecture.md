@@ -57,3 +57,22 @@ The Construction Website project uses a **simple static web architecture**:
              v
    Testing (tests/)
    - test_getmax.py
+
+---
+
+## 4. Navigation Flow
+
+- User lands on `index.html`.
+- From the navigation bar the user can:
+  - Open **Services** → `services.html`
+  - Open **About** → `about.html`
+  - Open **Contact** → `contact.html`
+- From any page, the logo/title brings the user back to **Home**.
+
+---
+
+## 5. Rationale
+
+- Static architecture is enough for the course requirements.
+- Easy to host locally or later on **GitHub Pages**.
+- Simple structure makes it easy for another developer or the professor to understand the project quickly.
